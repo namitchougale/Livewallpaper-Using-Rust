@@ -9,8 +9,7 @@ Flow targets 12 displayed frames per second at up to 720p. The 140 MB limit appl
 Source contains the Rust project and build instructions. To measure the app, quit Flow first and run the following from PowerShell in the extracted folder.
 
 Evidence:
-Source/Screenshot 2026-11-26 211022.png
-
+<img src="Source/Screenshot 2026-11-26 211022.png" alt="image">
 
 
     .\Source\scripts\Measure-Flow.ps1 -Exe .\FlowLiveWallpaper.exe -Mp4 '.\Wallpapers\Violet Drift.mp4'
